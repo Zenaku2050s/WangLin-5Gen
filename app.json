@@ -76,7 +76,7 @@
       },
       "UPSTREAM_REPO": {
         "description": "If you dont know this, Leave as it is",
-        "value": "https://github.com/WangLinXMusic/VIP-MUSIC",
+        "value": "https://github.com/Zenaku2050s/WangLin-5Gen",
         "required": true
       },
       "UPSTREAM_BRANCH": {
