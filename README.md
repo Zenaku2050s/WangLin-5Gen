@@ -30,7 +30,7 @@
 <h3> 𝗛𝗘𝗥𝗢𝗞𝗨 𝗗𝗘𝗣𝗟𝗢𝗬𝗠𝗘𝗡𝗧 𝗕𝗨𝗧𝗧𝗢𝗡 </h3>
 
 <p align="center">
-    <a href="https://dashboard.heroku.com/new?template=https://github.com/WangLinXMusic/WangLin-5Gen">
+    <a href="https://dashboard.heroku.com/new?template=https://github.com/Zenaku2050s/WangLin-5Gen">
         <img src="https://img.shields.io/badge/Deploy%20On%20Heroku-bringle?style=for-the-badge&logo=heroku" width="220" height="38.45"/>
     </a>
 </p>
@@ -53,7 +53,7 @@
 ### 🖇 VPS Deployment
 - Clone repo: `git clone https://github.com/WangLinXMusic/WangLin-5Gen && cd VIP-MUSIC`
 - Setup by: `bash setup`
-- Fill [Extra Variables](https://github.com/WangLinXMusic/WangLin-5Gen/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
+- Fill [Extra Variables](https://github.com/Zenaku2050s/WangLin-5Gen/blob/master/sample.env) by `nano .env`, save changes with `CTRL+X`, then `y`, then `Enter`
 - Install tmux: `sudo apt install tmux && tmux`
 - Run the bot: `bash start`
 - To exit tmux session: Press `Ctrl+b` and then `d`
